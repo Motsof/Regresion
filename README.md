@@ -2,7 +2,7 @@
 
 Este repositorio contiene diversos proyectos desarrollados en mi formación universitaria, enfocados en la aplicación de modelos estadísticos y técnicas de machine learning para resolver problemas reales. Cada proyecto está implementado en Jupyter Notebooks y organizado por temas clave.
 
-## Contenido del Repositorio
+---
 
 ###  Datos
 
